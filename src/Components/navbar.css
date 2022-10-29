@@ -1,0 +1,56 @@
+.container {
+  background-color: #f5f5f5;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo_container {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 75px;
+  height: 71px;
+}
+
+.logo_title {
+  color: #1d7e38;
+  font-family: Inter;
+  font-size: 26px;
+  font-weight: 800;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.links {
+  width: 50%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.links_container {
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.links_container li a {
+  text-decoration: none;
+  color: #1d7e38;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.active {
+  padding: 10px;
+  border: 1px solid #1d7e38;
+  border-radius: 13px;
+}
