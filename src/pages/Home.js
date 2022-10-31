@@ -22,9 +22,9 @@ function home() {
        <Navbar></Navbar>
     </Wrapper_gl>
 
-    {/* <Wrapper_g>
+    <Wrapper_g>
      <Hero></Hero>
-    </Wrapper_g> */}
+    </Wrapper_g>
     </>
   )
 }

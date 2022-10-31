@@ -4,7 +4,7 @@ function Hero() {
   return (
     <div className='hero_container'>
 
-      
+      <h1>Zenzele</h1>
     </div>
   )
 }
