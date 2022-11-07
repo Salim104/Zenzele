@@ -1,0 +1,22 @@
+.hero_container {
+  width: 100%;
+}
+.hero_container div {
+  width: 40%;
+}
+
+p.maindisc {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 46px;
+  color: #1d7e38;
+}
+p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 46px;
+}
